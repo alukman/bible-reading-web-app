@@ -33,6 +33,7 @@
 </template>
 
 <script>
+import db from '../firebase/db';
 export default {
   data() {
     return {
